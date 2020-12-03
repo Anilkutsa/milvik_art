@@ -9,6 +9,16 @@ Clone the project to your computer using below command
 git clone https://github.com/Anilkutsa/milvik_art.git
 ```
 
+Check if python in installed in your computer. If not installed, install Python. 
+```
+python --version
+```
+
+Once installed, run below command to add emoji library to Python. Alternately, you remove emoji related lines from lines 2, 23, 226 of milvik.py file and run the program as well. 
+```
+pip install emoji
+```
+
 Run milvik.py script from the downloaded directory using below command - 
 
 ```
